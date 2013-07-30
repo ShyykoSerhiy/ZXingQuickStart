@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="id" name="decoded"/>
+    <item type="id" name="decode_failed"/>
+</resources>
